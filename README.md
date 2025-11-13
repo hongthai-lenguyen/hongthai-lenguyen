@@ -2,7 +2,7 @@
 
 <h1 align="center">🧬 HongThai LeNguyen</h1>
 
-<h3 align="center">⚙️ Data Scientist · Bioinformatician · Professor</h3>
+<h3 align="center">⚙️ Data Scientist · Bioinformatician · Laboratory Technician · Researcher</h3>
 <h4 align="center">Integrating multi-OMICs and structural biology to decode immune responses in infection 🦠 and cancer 🎗️</h4>
 
 ---
