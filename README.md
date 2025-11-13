@@ -91,9 +91,9 @@
 
 ### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-hongthai%40example.com-blue?style=flat-square&logo=gmail)](mailto:hongthai.lenguyen@outlook.com)
+[![Email](https://img.shields.io/badge/Email-hongthai-lenguyen%40outlook.com-blue?style=flat-square&logo=gmail)](mailto:hongthai.lenguyen@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HongThaiLeNguyen-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hong-thai-le-nguyen/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0009-2296-3506)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0009-2296-3506-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0009-2296-3506)
 
 ---
 
