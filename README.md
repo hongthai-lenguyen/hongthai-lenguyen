@@ -60,17 +60,17 @@
 
 ### 📚 Publications
 
-📖 **Le Nguyen H.T.**, Tram T.T.B., Nguyen T.T.T. *et al.* (2025).  
+📖 Tram T.T.B., Lucy.G, **Le Nguyen H.T.**, Nguyen T.T.T. *et al.* (2025).  
 **Single-cell profiling of blood and cerebrospinal fluid in tuberculous meningitis reveals immune cell heterogeneity.**  
 *The Journal of Immunology*.  
 [🔗 DOI: 10.1093/jimmun/vkaf186](https://academic.oup.com/jimmunol/advance-article/doi/10.1093/jimmun/vkaf186/8228553)
 
 > *Co-author — contributed to single-cell RNA-seq data analysis, immune cell classification, and integrative interpretation.*
 
-📖 Tran H., Le T., Pham B., Nguyen T. (2025).
-Functional characterization of a novel bark-specific multi-product monoterpene synthase from the rubber tree (Hevea brasiliensis).
-Functional Plant Biology.
-🔗 DOI: 10.1071/FP25129
+📖 Tran H., **Le T.**, Pham B., Nguyen T. (2025).
+**Functional characterization of a novel bark-specific multi-product monoterpene synthase from the rubber tree (*Hevea brasiliensis*).**
+*Functional Plant Biology.*
+[🔗 DOI: 10.1071/FP25129](https://connectsci.au/fp/article-abstract/doi/10.1071/FP25129/266331/Functional-characterization-of-a-novel-bark?redirectedFrom=fulltext)
 
 > *Co-author — contributed to protein function prediction, truncated protein sequence design, cloning, protein expression and purification, functional characterization by GC-MS, and manuscript drafting.*
 
