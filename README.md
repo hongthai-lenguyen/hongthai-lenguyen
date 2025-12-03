@@ -67,6 +67,13 @@
 
 > *Co-author — contributed to single-cell RNA-seq data analysis, immune cell classification, and integrative interpretation.*
 
+📖 Tran H., Le T., Pham B., Nguyen T. (2025).
+Functional characterization of a novel bark-specific multi-product monoterpene synthase from the rubber tree (Hevea brasiliensis).
+Functional Plant Biology.
+🔗 DOI: 10.1071/FP25129
+
+> *Co-author — contributed to protein function prediction, truncated protein sequence design, cloning, protein expression and purification, functional characterization by GC-MS, and manuscript drafting.*
+
 ---
 
 ### 💡 Research Vision
