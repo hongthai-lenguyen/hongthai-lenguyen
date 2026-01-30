@@ -74,6 +74,12 @@
 
 > *Co-author — contributed to protein function prediction, truncated protein sequence design, cloning, protein expression and purification, functional characterization by GC-MS, and manuscript drafting.*
 
+📖 Le N.T.H., Thai T.M., Hai H.T., Hong V.L., **Le Nguyen H.T.**, Trinh T., Thu D.D.A., Ha D.T.M., Nghia H.D.T., Thwaites G., Thuong N.T.T. (2026). 
+**Whole blood transcriptional responses associated with bacterial burden in pulmonary tuberculosis. bioRxiv (preprint).**
+🔗 DOI: 10.64898/2026.01.29.702471
+
+> *Co-author — contributed to single-cell RNA-seq data analysis and deconvolution analysis.*
+
 ---
 
 ### 💡 Research Vision
