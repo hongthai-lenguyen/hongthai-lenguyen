@@ -34,7 +34,7 @@
 ### 🧰 Tech Stack
 
 #### 💻 Programming
-`Python` · `R` · `Bash` · `Nextflow` · `Snakemake`
+`Python` · `R` · `Bash` · `Nextflow` · `Snakemake` · `Slurm` · `Docker` · `Git`
 
 #### 🧫 Bioinformatics
 `Seurat` · `Scanpy` · `MAST` · `DESeq2` · `WGCNA` · `SCENIC`
