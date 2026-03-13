@@ -36,10 +36,10 @@ I operate at the critical intersection of experimental biology and computational
 
 ## 📈 Real-Time Computational Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=0A244A&icon_color=0A244A&text_color=333333" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongthai-lenguyen&layout=compact&theme=transparent&hide_border=true&title_color=0A244A&icon_color=0A244A&text_color=333333" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=0A244A&icon_color=0A244A&text_color=333333&count_private=true&include_all_commits=true" alt="Comprehensive GitHub Engineering Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongthai-lenguyen&layout=compact&theme=transparent&hide_border=true&title_color=0A244A&icon_color=0A244A&text_color=333333" alt="Primary Programming Languages Matrix" />
+</p>
 
 ---
 
