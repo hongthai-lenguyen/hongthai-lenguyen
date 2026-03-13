@@ -54,7 +54,7 @@ I operate at the critical intersection of experimental biology and computational
 
 ## 🔬 Professional & Research Experience
 
-<details open>
+<details>
 <summary><strong>🧬 Oxford University Clinical Research Unit (OUCRU) | Ho Chi Minh City, Vietnam</strong></summary>
 <br>
 <blockquote>
@@ -72,7 +72,7 @@ I operate at the critical intersection of experimental biology and computational
 </blockquote>
 </details>
 
-<details open>
+<details>
 <summary><strong>💻 Pythia Biosciences | Ho Chi Minh City, Vietnam</strong></summary>
 <br>
 <blockquote>
@@ -83,7 +83,7 @@ I operate at the critical intersection of experimental biology and computational
 </blockquote>
 </details>
 
-<details open>
+<details>
 <summary><strong>🧪 VNUHCM - University of Science | Ho Chi Minh City, Vietnam</strong></summary>
 <br>
 <blockquote>
@@ -137,7 +137,7 @@ I operate at the critical intersection of experimental biology and computational
 
 ## 🧰 The OMICs, Wet-Lab & Computational Matrix
 
-<details open>
+<details>
 <summary><strong>🧬 1. Transcriptomics & High-Dimensional Bioinformatics</strong></summary>
 <br>
 <blockquote>
@@ -150,7 +150,7 @@ I operate at the critical intersection of experimental biology and computational
 </blockquote>
 </details>
 
-<details open>
+<details>
 <summary><strong>🧪 2. Molecular Biology, Wet-Lab & High-Containment Assays</strong></summary>
 <br>
 <blockquote>
@@ -163,7 +163,7 @@ I operate at the critical intersection of experimental biology and computational
 </blockquote>
 </details>
 
-<details open>
+<details>
 <summary><strong>⚙️ 3. Systems Architecture, Pipeline Engineering & DevOps</strong></summary>
 <br>
 <blockquote>
@@ -177,7 +177,7 @@ I operate at the critical intersection of experimental biology and computational
 </blockquote>
 </details>
 
-<details open>
+<details>
 <summary><strong>🧩 4. Structural Biology, Proteomics & MD Simulation</strong></summary>
 <br>
 <blockquote>
