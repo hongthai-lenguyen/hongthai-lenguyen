@@ -1,38 +1,61 @@
 name: Advanced Private Telemetry Extraction
 on:
   schedule:
-    - cron: "0 0 * * *" # Automated execution at 00:00 UTC daily
-  workflow_dispatch: # Allows manual triggering for immediate updates
+    # Optimized execution at 22:30 UTC (05:30 Ho Chi Minh City time).
+    # Bypasses the massive midnight UTC server gridlock on GitHub Actions.
+    - cron: "30 22 * * *" 
+  workflow_dispatch:
   push:
     branches:
       - main
+
+# Prevents race conditions if multiple pushes occur rapidly during active development
+concurrency:
+  group: metrics-update
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essential permission to push the generated SVG back to your README
+      contents: write # Essential for pushing the SVG back to the repo
     steps:
       - name: Generate Comprehensive Data Science Telemetry
         uses: lowlighter/metrics@latest
         with:
           # 1. Core Authentication & Display Setup
           token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Ho_Chi_Minh # Calibrates commit timestamps to your local computational environment
+          config_timezone: Asia/Ho_Chi_Minh
           base: header, activity, community, repositories, metadata
-          base_indepth: yes # Forces the engine to evaluate deeper repository history, not just the surface GraphQL API
+          base_indepth: yes 
           
           # 2. Private Contribution Aggregation Protocol
-          commits_authoring: hongthai-lenguyen, user_email # Ensures commits tied to your local git config are captured
+          # CRITICAL FIX: You must replace 'your.actual@email.com' with the email tied to your local Git config.
+          commits_authoring: "hongthai-lenguyen, your.actual@email.com" 
           
           # 3. Deep Language Extraction (Including Private Codebases)
           plugin_languages: yes
-          plugin_languages_indepth: yes # Bypasses standard GitHub API to clone/analyze private repos for accurate language counts
-          plugin_languages_analysis_timeout: 30 # Extended timeout for massive multi-omics or GROMACS codebase analysis
+          plugin_languages_indepth: yes 
+          plugin_languages_analysis_timeout: 60 # Increased to 60s for massive scRNA-seq/metabolomics repositories
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_categories: markup, programming, data
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, jupyter notebook
-          plugin_languages_limit: 8 # Focuses the visualization on your primary data science and systems architecture tools
+          # CRITICAL FIX: GitHub Linguist recognizes "Jupyter Notebook", not "jupyter notebook".
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, Jupyter Notebook, rmd
+          plugin_languages_limit: 8 
           
-          # 4. Isometric Commit Calendar (The Activity Graph)
+          # 4. Isometric Commit Calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Displays a complete 365-day heat map of wet-lab and dry-lab days
+          plugin_isocalendar_duration: full-year 
+
+          # 5. [NEW] Algorithmic Code Volume Tracking
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+
+          # 6. [NEW] Computational Habits & Temporal Analysis
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
