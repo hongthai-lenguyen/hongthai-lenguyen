@@ -1,22 +1,38 @@
-name Continuous Metrics Update
-on
-  schedule
-    - cron 0 0    # Executes daily at midnight UTC
-  workflow_dispatch
-  push
-    branches
+name: Advanced Private Telemetry Extraction
+on:
+  schedule:
+    - cron: "0 0 * * *" # Automated execution at 00:00 UTC daily
+  workflow_dispatch: # Allows manual triggering for immediate updates
+  push:
+    branches:
       - main
-jobs
-  github-metrics
-    runs-on ubuntu-latest
-    steps
-      - uses lowlightermetrics@latest
-        with
-          token ${{ secrets.METRICS_TOKEN }}
-          config_timezone AsiaHo_Chi_Minh
-          base header, activity, community, repositories, metadata
-          plugin_isocalendar yes
-          plugin_isocalendar_duration half-year
-          plugin_languages yes
-          plugin_languages_ignored html, css
-          plugin_languages_details bytes-size, percentage
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Essential permission to push the generated SVG back to your README
+    steps:
+      - name: Generate Comprehensive Data Science Telemetry
+        uses: lowlighter/metrics@latest
+        with:
+          # 1. Core Authentication & Display Setup
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Ho_Chi_Minh # Calibrates commit timestamps to your local computational environment
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes # Forces the engine to evaluate deeper repository history, not just the surface GraphQL API
+          
+          # 2. Private Contribution Aggregation Protocol
+          commits_authoring: hongthai-lenguyen, user_email # Ensures commits tied to your local git config are captured
+          
+          # 3. Deep Language Extraction (Including Private Codebases)
+          plugin_languages: yes
+          plugin_languages_indepth: yes # Bypasses standard GitHub API to clone/analyze private repos for accurate language counts
+          plugin_languages_analysis_timeout: 30 # Extended timeout for massive multi-omics or GROMACS codebase analysis
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_categories: markup, programming, data
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, jupyter notebook
+          plugin_languages_limit: 8 # Focuses the visualization on your primary data science and systems architecture tools
+          
+          # 4. Isometric Commit Calendar (The Activity Graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Displays a complete 365-day heat map of wet-lab and dry-lab days
