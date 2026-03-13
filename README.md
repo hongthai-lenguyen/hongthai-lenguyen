@@ -34,16 +34,6 @@ I operate at the critical intersection of experimental biology and computational
 > Translate complex genomic data into actionable biological insights by integrating wet-lab experimental expertise with advanced computational analysis to accurately account for technical biases and biological variability.
 ---
 
-## 📈 Real-Time Computational Analytics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongthai-lenguyen&bg_color=transparent&color=333333&line=0A244A&point=0A244A&area=true&hide_border=true&custom_title=31-Day%20Computational%20Velocity" alt="Continuous Integration Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&stroke=0A244A&ring=0A244A&fire=0A244A&currStreakNum=333333&sideNums=333333&currStreakLabel=0A244A&sideLabels=0A244A&dates=333333" alt="GitHub Contribution Streak Analytics" />
-</p>
----
-
 ## 📚 Publications & Scientific Output
 
 ### 🥇 Under Review
@@ -138,7 +128,9 @@ I operate at the critical intersection of experimental biology and computational
 ## 🛡️ Laboratory Containment, Biosafety & Hardware Credentials
 
 **[BSL-3] Biosafety Level 3 Certification:** Certified by the **National Institute of Hygiene and Epidemiology (NIHE)**. Possess extensive hands-on experience in the secure handling, processing, and containment of viable *Mycobacterium tuberculosis*.
+
 **[BSL-2] Biosafety Level 2 Certification:** Certified by the **Pasteur Institute** with expert proficiency in sterile cell culture, viral vector handling, and primary human tissue processing (e.g., PBMC isolation, CSF fractionation). All operations are executed in strict adherence to international safety standards.
+
 **[HPC] Low-Level Systems Architecture:** Proficient in bare-metal hardware optimization, kernel-level parameter tuning, and CPU core allocation algorithms. Expert at maximizing computational density and mitigating memory bottlenecks during heavy, sustained bioinformatics workloads (e.g., executing prolonged GROMACS molecular dynamics simulations).
 
 ---
