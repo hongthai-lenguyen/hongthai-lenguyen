@@ -35,8 +35,13 @@ I operate at the critical intersection of experimental biology and computational
 ---
 
 ## 📈 Real-Time Computational Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongthai-lenguyen) 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hongthai-lenguyen&bg_color=transparent&color=333333&line=0A244A&point=0A244A&area=true&hide_border=true&custom_title=31-Day%20Computational%20Velocity" alt="Continuous Integration Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&stroke=0A244A&ring=0A244A&fire=0A244A&currStreakNum=333333&sideNums=333333&currStreakLabel=0A244A&sideLabels=0A244A&dates=333333" alt="GitHub Contribution Streak Analytics" />
+</p>
 ---
 
 ## 📚 Publications & Scientific Output
