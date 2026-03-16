@@ -155,6 +155,11 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
 
+<!-- Bioinformatic/Biotech GIF Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="50" width="100%" style="object-fit: cover; opacity: 0.6;" alt="Data DNA Line">
+</div>
+
 | ⚙️ Repository | 🎯 Scientific Objective & Technical Impact |
 | :--- | :--- |
 | **[TBM_FixationBenchmark_scRNAseq](https://github.com/hongthai-lenguyen/TBM_FixationBenchmark_scRNAseq)** | **Objective:** Develop a rigorous benchmarking framework to evaluate cellular fixation protocols for scRNA-seq.<br>**Impact:** Optimizes sample preservation workflows to mitigate transcriptional drift prior to droplet encapsulation. |
