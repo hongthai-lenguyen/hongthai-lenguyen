@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Computational_Biologist-Wet_Lab_%E2%9C%95_Dry_Lab-darkred?style=for-the-badge" alt="Dual Competency Badge">
-  <br><br>
-  <h1>🧬 HongThai LeNguyen 🧬</h1>
-  <h3>Bioinformatician & Data Scientist @ Pythia Bioscience · Research Assistant @ OUCRU</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🧬%20HongThai%20LeNguyen%20🧬&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Bioinformatician%20%26%20Data%20Scientist%20@%20Pythia%20Bioscience%20·%20Research%20Assistant%20@%20OUCRU&descAlignY=60&descAlign=62" />
   
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Bioinformatician+%26+Data+Scientist;Bridging+Wet-Lab+Biology+%26+Computational+Science;Research+Assistant+%40+OUCRU;From+Molecules+to+Mechanisms" alt="Typing SVG" /></a>
+  <br>
+
   <p align="center">
     <a href="mailto:hongthai.lenguyen@outlook.com"><img src="https://img.shields.io/badge/Email-hongthai.lenguyen%40outlook.com-blue?style=for-the-badge&logo=gmail"></a>
     <a href="https://www.linkedin.com/in/hong-thai-le-nguyen/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
     <a href="https://github.com/hongthai-lenguyen"><img src="https://img.shields.io/badge/GitHub-hongthai--lenguyen-black?style=for-the-badge&logo=github"></a>
     <a href="https://orcid.org/0009-0009-2296-3506"><img src="https://img.shields.io/badge/ORCID-0009--0009--2296--3506-green?style=for-the-badge&logo=orcid"></a>
     <a href="https://www.oucru.org/people/le-nguyen-hong-thai/"><img src="https://img.shields.io/badge/OUCRU-Researcher_Profile-darkred?style=for-the-badge&logo=oxford"></a>
+  </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hongthai-lenguyen&label=Profile%20views&color=0e75b6&style=flat-square" alt="hongthai-lenguyen" />
   </p>
 
   <p align="center">
@@ -18,35 +22,54 @@
       <a href="#-skills--tech-stack">🧰 Tech Stack</a> &nbsp;|&nbsp; 
       <a href="#-publications--scientific-output">📚 Publications</a> &nbsp;|&nbsp; 
       <a href="#-experience">🔬 Experience</a> &nbsp;|&nbsp; 
-      <a href="#-projects">🚀 Projects</a>
+      <a href="#-projects">🚀 Projects</a> &nbsp;|&nbsp; 
+      <a href="#-github-analytics">📊 GitHub Analytics</a>
     </strong>
   </p>
 </div>
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
-## 🧭 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> About Me
 **Bridging Wet-Lab Biology & Computational Science**
 
-I operate at the critical intersection of experimental biology and computational bioinformatics. My mission is to translate high-dimensional molecular data into reproducible scientific insights. With a background spanning BSL-3 infectious disease research, biochemistry, immunology, single-cell omics, and scalable pipeline architecture, I move seamlessly between the laboratory bench and high-performance computing (HPC) environments.
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        I operate at the critical intersection of experimental biology and computational bioinformatics. My mission is to translate high-dimensional molecular data into reproducible scientific insights. With a background spanning BSL-3 infectious disease research, biochemistry, immunology, single-cell omics, and scalable pipeline architecture, I move seamlessly between the laboratory bench and high-performance computing (HPC) environments.<br><br>
+        <blockquote>
+          <b>The "Bench-to-Byte" Philosophy:</b> Translate complex genomic data into actionable biological insights by integrating wet-lab experimental expertise with advanced computational analysis to accurately account for technical biases and biological variability.
+        </blockquote>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="DNA GIF">
+      </td>
+    </tr>
+  </table>
+</div>
 
-> **The "Bench-to-Byte" Philosophy:** Translate complex genomic data into actionable biological insights by integrating wet-lab experimental expertise with advanced computational analysis to accurately account for technical biases and biological variability.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
-<br>
-
-## 🧰 Skills & Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Skills & Tech Stack
 
 <div align="center">
 
 | 🧬 Transcriptomics & Bioinformatics | 🧪 Wet-Lab & Molecular Biology | ⚙️ Architecture & DevOps | 🧩 Structural Biology |
 | :--- | :--- | :--- | :--- |
-| ![Seurat](https://img.shields.io/badge/Seurat-Integration-blue?style=flat-square)<br>![Scanpy](https://img.shields.io/badge/Scanpy-Python-blue?style=flat-square)<br>![DESeq2](https://img.shields.io/badge/DESeq2-Bulk_RNA-blue?style=flat-square)<br>![WGCNA](https://img.shields.io/badge/WGCNA-Network_Analysis-blue?style=flat-square)<br>![SCENIC](https://img.shields.io/badge/SCENIC-Gene_Regulatory-blue?style=flat-square) | ![BSL-3](https://img.shields.io/badge/BSL--3_Containment-Mycobacterium_tb-darkred?style=flat-square)<br>![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Library_Preparation-darkred?style=flat-square)<br>![Cloning](https://img.shields.io/badge/Molecular_Cloning-Recombinant_DNA-darkred?style=flat-square)<br>![Protein](https://img.shields.io/badge/Protein_Expression_%7C_Purification-Chromatography-darkred?style=flat-square)<br>![GC-MS](https://img.shields.io/badge/GC--MS-Mass_Spectrometry-darkred?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=flat-square&logo=python)<br>![R](https://img.shields.io/badge/R-Tidyverse-blue?style=flat-square&logo=r)<br>![Nextflow](https://img.shields.io/badge/Nextflow-Pipelines-brightgreen?style=flat-square)<br>![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=flat-square&logo=docker)<br>![Linux](https://img.shields.io/badge/Linux_Kernel-Tuning-lightgrey?style=flat-square&logo=linux) | ![ColabFold](https://img.shields.io/badge/ColabFold-AlphaFold2-orange?style=flat-square)<br>![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-Molecular_Docking-orange?style=flat-square)<br>![GROMACS](https://img.shields.io/badge/GROMACS-MD_Simulations-orange?style=flat-square)<br>![PyMOL](https://img.shields.io/badge/PyMOL-Visualization-orange?style=flat-square) |
+| ![Seurat](https://img.shields.io/badge/Seurat-Integration-blue?style=flat-square)<br>![Scanpy](https://img.shields.io/badge/Scanpy-Python-blue?style=flat-square)<br>![DESeq2](https://img.shields.io/badge/DESeq2-Bulk_RNA-blue?style=flat-square)<br>![WGCNA](https://img.shields.io/badge/WGCNA-Network_Analysis-blue?style=flat-square)<br>![SCENIC](https://img.shields.io/badge/SCENIC-Gene_Regulatory-blue?style=flat-square) | ![BSL-3](https://img.shields.io/badge/BSL--3_Containment-Mycobacterium_tb-darkred?style=flat-square)<br>![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Library_Preparation-darkred?style=flat-square)<br>![Cloning](https://img.shields.io/badge/Molecular_Cloning-Recombinant_DNA-darkred?style=flat-square)<br>![Protein](https://img.shields.io/badge/Protein_Expression_%7C_Purification-Chromatography-darkred?style=flat-square)<br>![GC-MS](https://img.shields.io/badge/GC--MS-Mass_Spectrometry-darkred?style=flat-square) | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,docker,linux,bash&theme=light" /></a><br>![Nextflow](https://img.shields.io/badge/Nextflow-Pipelines-brightgreen?style=flat-square) | ![ColabFold](https://img.shields.io/badge/ColabFold-AlphaFold2-orange?style=flat-square)<br>![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-Molecular_Docking-orange?style=flat-square)<br>![GROMACS](https://img.shields.io/badge/GROMACS-MD_Simulations-orange?style=flat-square)<br>![PyMOL](https://img.shields.io/badge/PyMOL-Visualization-orange?style=flat-square) |
 
 </div>
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
-## 📚 Publications & Scientific Output
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Publications & Scientific Output
 
 ### 🥇 Under Review
 **[1] Whole blood transcriptional responses associated with bacterial burden in pulmonary tuberculosis.**<br>
@@ -63,9 +86,11 @@ Tram T.T.B., Lucy.G, **Le Nguyen H.T.**, Nguyen T.T.T. *et al.* (2025). *The Jou
 Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: [10.1071/FP25129](https://connectsci.au/fp/article-abstract/doi/10.1071/FP25129/266331)<br>
 > 🔬 **Contribution:** Contributed heavily to protein function prediction, truncated sequence design, and end-to-end wet-lab validation encompassing protein expression, cloning, purification, and rigorous GC-MS characterization.
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
-## 🔬 Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Experience
 > 💡 *Note: Click on a laboratory or company to expand detailed responsibilities and achievements.*
 
 <details>
@@ -120,9 +145,11 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 - **Multiplex Assay Execution:** Performed complex Trioplex RT-PCR assays for Dengue, Chikungunya, and Zika, alongside Four-Plex RT-PCR for Dengue serotypes.
 </details>
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
-## 🚀 Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
 
 | ⚙️ Repository | 🎯 Scientific Objective & Technical Impact |
 | :--- | :--- |
@@ -130,7 +157,24 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 | **[multiomics-bridge](https://github.com/hongthai-lenguyen/multiomics-bridge)**<br>*(Sole Developer)* | **Objective:** Engineer programmatic statistical bridges utilizing Python and R.<br>**Impact:** Unifies disparate transcriptomic and proteomic vectors into cohesive immune pathway models. |
 | **[protein-sim-suite](https://github.com/hongthai-lenguyen/protein-sim-suite)**<br>*(Sole Developer)* | **Objective:** Author a fully containerized structural biology pipeline bridging ColabFold and GROMACS.<br>**Impact:** Fully automates high-throughput protein conformation prediction and molecular dynamics simulations. |
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=777777&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&title_color=10B981&ring=10B981&fire=10B981&currStreakNum=777777&count_private=true" height="150" alt="GitHub Streak" />
+</div>
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongthai-lenguyen&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=777777&count_private=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
 ## 🛡️ Laboratory Containment, Biosafety & Hardware Credentials
 
@@ -138,7 +182,9 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 - **[BSL-2] Biosafety Level 2 Certification:** Certified by the *Pasteur Institute* with expert proficiency in sterile cell culture, viral vector handling, and primary human tissue processing.
 - **[HPC] Low-Level Systems Architecture:** Proficient in bare-metal hardware optimization, kernel-level parameter tuning, and maximizing computational density for heavy sustained bioinformatics workloads (e.g., executing prolonged GROMACS molecular dynamics simulations).
 
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+</div>
 
 ## 🎓 Academic Credentials
 
@@ -150,3 +196,6 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 ---
 <h4 align="center">🌍 "From molecules to mechanisms — connecting biology through data and discovery." 🌍</h4>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
