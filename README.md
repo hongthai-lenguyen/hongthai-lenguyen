@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🧬%20HongThai%20LeNguyen%20🧬&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Bioinformatician%20%26%20Data%20Scientist%20@%20Pythia%20Bioscience%20·%20Research%20Assistant%20@%20OUCRU&descAlignY=60&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
   
+  <br>
+  <img src="https://img.shields.io/badge/Computational_Biologist-Wet_Lab_%E2%9C%95_Dry_Lab-darkred?style=for-the-badge" alt="Dual Competency Badge">
+  <br><br>
+  <h1>🧬 HongThai LeNguyen 🧬</h1>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Bioinformatician+%26+Data+Scientist;Bridging+Wet-Lab+Biology+%26+Computational+Science;Research+Assistant+%40+OUCRU;From+Molecules+to+Mechanisms" alt="Typing SVG" /></a>
   <br>
 
@@ -29,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> About Me
@@ -52,7 +56,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Skills & Tech Stack
@@ -66,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Publications & Scientific Output
@@ -87,7 +91,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 > 🔬 **Contribution:** Contributed heavily to protein function prediction, truncated sequence design, and end-to-end wet-lab validation encompassing protein expression, cloning, purification, and rigorous GC-MS characterization.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Experience
@@ -146,7 +150,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 </details>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
@@ -158,22 +162,18 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 | **[protein-sim-suite](https://github.com/hongthai-lenguyen/protein-sim-suite)**<br>*(Sole Developer)* | **Objective:** Author a fully containerized structural biology pipeline bridging ColabFold and GROMACS.<br>**Impact:** Fully automates high-throughput protein conformation prediction and molecular dynamics simulations. |
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=777777&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&title_color=10B981&ring=10B981&fire=10B981&currStreakNum=777777&count_private=true" height="150" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongthai-lenguyen&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=777777&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&title_color=10B981&ring=10B981&fire=10B981&dates=777777&sideLabels=777777&sideNums=777777&count_private=true" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## 🛡️ Laboratory Containment, Biosafety & Hardware Credentials
@@ -183,7 +183,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 - **[HPC] Low-Level Systems Architecture:** Proficient in bare-metal hardware optimization, kernel-level parameter tuning, and maximizing computational density for heavy sustained bioinformatics workloads (e.g., executing prolonged GROMACS molecular dynamics simulations).
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
 ## 🎓 Academic Credentials
