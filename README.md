@@ -76,7 +76,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 > **Research Assistant – Bioinformatics & scRNA-seq** (Jul 2024 – Present)  
 > **Laboratory Technician** (Apr 2023 – Jul 2024)
 
-- **High-Containment Execution:** Spearhead critical research on *Mycobacterium tuberculosis* within a BSL-3 environment, adhering to rigorous biosafety protocols and negative-pressure laboratory safety standards.
+- **High bio-safety level Execution:** Spearhead critical research on *Mycobacterium tuberculosis* within a BSL-3 environment, adhering to rigorous biosafety protocols and negative-pressure laboratory safety standards.
 - **End-to-End scRNA-seq Architecture:** Execute highly volatile wet-lab techniques for single-cell RNA-seq sample prep, optimizing cell viability to mitigate pre-analytical stress.
 - **Immunology Research:** Orchestrate molecular cloning/knock-out on Tuberculosis, host-pathogen interaction functional studies, and other molecular experiments.
 </details>
