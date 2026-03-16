@@ -165,7 +165,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=777777&count_private=true" height="150" alt="GitHub Stats" />
