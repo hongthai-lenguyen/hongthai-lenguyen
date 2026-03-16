@@ -202,5 +202,5 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 ---
 <h4 align="center">🌍 "From molecules to mechanisms — connecting biology through data and discovery." 🌍</h4>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Turning%20Pipettes%20Into%20Pipelines&fontSize=18&fontAlignY=70&fontColor=000000" width="100%" />
 </div>
