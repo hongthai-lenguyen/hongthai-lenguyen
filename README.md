@@ -156,8 +156,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
 
 <div align="center">
-<!-- Bioinformatic/Biotech GIF Divider -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="50" width="100%" style="object-fit: cover; opacity: 0.6;" alt="Data DNA Line">
+  <img src="https://wsrv.nl/?url=media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif&h=50&w=1000&fit=cover&output=gif&n=-1" width="100%" height="50" alt="Data DNA Line">
 </div>
 
 | ⚙️ Repository | 🎯 Scientific Objective & Technical Impact |
