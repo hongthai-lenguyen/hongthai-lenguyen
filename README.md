@@ -109,7 +109,9 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 <br>
 
 > **Research Assistant – BSL-3 Laboratory** (May 2025 – Present)
+
 > **Research Assistant – Bioinformatics & scRNA-seq** (Jul 2024 – Present)
+
 > **Laboratory Technician** (Apr 2023 – Jul 2024)
 
 - **High bio-safety level Execution:** Spearhead critical research on *Mycobacterium tuberculosis* within a BSL-3 environment, adhering to rigorous biosafety protocols and negative-pressure laboratory safety standards.
