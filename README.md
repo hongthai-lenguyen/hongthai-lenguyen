@@ -172,8 +172,8 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=777777&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&title_color=10B981&ring=10B981&fire=10B981&dates=777777&sideLabels=777777&sideNums=777777&count_private=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hongthai-lenguyen&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=777777&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&title_color=10B981&ring=10B981&fire=10B981&dates=777777&sideLabels=777777&sideNums=777777&count_private=true" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">
