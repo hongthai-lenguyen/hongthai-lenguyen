@@ -44,9 +44,10 @@
   <table>
     <tr>
       <td width="70%">
-        I operate at the critical intersection of experimental biology and computational bioinformatics. My mission is to translate high-dimensional molecular data into reproducible scientific insights. With a background spanning BSL-3 infectious disease research, biochemistry, immunology, single-cell omics, and scalable pipeline architecture, I move seamlessly between the laboratory bench and high-performance computing (HPC) environments.<br><br>
+        I stand at the intersection of wet-lab biology and computational bioinformatics, turning high-dimensional molecular data into reproducible, mechanistically grounded insights.
+My background spans BSL-3 infectious disease research, biochemistry, immunology, single-cell omics, and production-grade pipeline architecture — letting me move fluidly from the bench to HPC clusters.<br><br>
         <blockquote>
-          <b>The "Bench-to-Byte" Philosophy:</b> Translate complex genomic data into actionable biological insights by integrating wet-lab experimental expertise with advanced computational analysis to accurately account for technical biases and biological variability.
+          <b>The "Bench-to-Byte" Philosophy:</b> I integrate deep experimental expertise with state-of-the-art analytics to correct technical biases while preserving biological truth — delivering actionable, independently validated discoveries.
         </blockquote>
       </td>
       <td width="30%" align="center">
