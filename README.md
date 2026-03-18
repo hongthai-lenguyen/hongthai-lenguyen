@@ -44,8 +44,7 @@
   <table>
     <tr>
       <td width="70%">
-        I stand at the intersection of wet-lab biology and computational bioinformatics, turning high-dimensional molecular data into reproducible, mechanistically grounded insights.
-My background spans BSL-3 infectious disease research, biochemistry, immunology, single-cell omics, and production-grade pipeline architecture — letting me move fluidly from the bench to HPC clusters.<br><br>
+        I stand at the intersection of wet-lab biology and computational bioinformatics, turning high-dimensional molecular data into reproducible, mechanistically grounded insights. My background spans BSL-3 infectious disease research, biochemistry, immunology, single-cell omics.<br><br>
         <blockquote>
           <b>The "Bench-to-Byte" Philosophy:</b> I integrate deep experimental expertise with state-of-the-art analytics to correct technical biases while preserving biological truth — delivering actionable, independently validated discoveries.
         </blockquote>
