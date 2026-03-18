@@ -81,7 +81,7 @@
 **[1] Whole blood transcriptional responses associated with bacterial burden in pulmonary tuberculosis.**<br>
 Le N.T.H., Thai T.M., Hai H.T., Hong V.L., **Le Nguyen H.T.**, Trinh T., Thu D.D.A., Ha D.T.M., Nghia H.D.T., Thwaites G., Thuong N.T.T. (2026). *bioRxiv (preprint).* DOI: [10.64898/2026.01.29.702471](https://doi.org/10.64898/2026.01.29.702471)<br>
 
-> 🔬 **Contribution:** Engineered high-resolution scRNA-seq pipelines and advanced deconvolution matrices to quantify complex immune cell heterogeneity.
+> 🔬 **Contribution:** Engineered high-resolution customed processing scRNA-seq pipelines for advanced deconvolution matrices to quantify complex immune cell heterogeneity from bulk RNA-seq data.
 
 ### 🤝 Co-Authorship
 
@@ -94,7 +94,7 @@ Tram T.T.B., Lucy.G, **Le Nguyen H.T.**, Nguyen T.T.T. *et al.* (2025). *The Jou
 **[3] Functional characterization of a novel bark-specific multi-product monoterpene synthase from the rubber tree (*Hevea brasiliensis*).**<br>
 Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: [10.1071/FP25129](https://connectsci.au/fp/article-abstract/doi/10.1071/FP25129/266331)<br>
 
-> 🔬 **Contribution:** Contributed heavily to protein function prediction, truncated sequence design, and end-to-end wet-lab validation encompassing protein expression, cloning, purification, and rigorous GC-MS characterization.
+> 🔬 **Contribution:** Contributed to protein function prediction, truncated sequence design, and end-to-end wet-lab validation encompassing protein expression, cloning, purification, and rigorous GC-MS characterization.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
@@ -114,7 +114,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 > **Laboratory Technician** (Apr 2023 – Jul 2024)
 
-- **High bio-safety level Execution:** Spearhead critical research on *Mycobacterium tuberculosis* within a BSL-3 environment, adhering to rigorous biosafety protocols and negative-pressure laboratory safety standards.
+- **High bio-safety level Execution:** Spearhead critical research on *Mycobacterium tuberculosis* within a BSL-3 environment, adhering to rigorous biosafety protocols.
 - **End-to-End scRNA-seq Architecture:** Execute highly volatile wet-lab techniques for single-cell RNA-seq sample prep, optimizing cell viability to mitigate pre-analytical stress.
 - **Immunology Research:** Orchestrate molecular cloning/knock-out on Tuberculosis, host-pathogen interaction functional studies, and other molecular experiments.
 
@@ -199,7 +199,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 ## 🛡️ Laboratory Containment, Biosafety & Hardware Credentials
 
-- **[BSL-3] Biosafety Level 3 Certification:** Certified by the *National Institute of Hygiene and Epidemiology (NIHE)*. Extensive hands-on experience in the secure handling and processing of viable *Mycobacterium tuberculosis*.
+- **[BSL-3] Biosafety Level 3 Certification:** Certified by the *National Institute of Hygiene and Epidemiology (NIHE)*. Extensive hands-on experience in the secure handling and processing of viable *Mycobacterium tuberculosis* and other dangerous pathogens in a BSL-3 environment.
 - **[BSL-2] Biosafety Level 2 Certification:** Certified by the *Pasteur Institute* with expert proficiency in sterile cell culture, viral vector handling, and primary human tissue processing.
 - **[HPC] Low-Level Systems Architecture:** Proficient in bare-metal hardware optimization, kernel-level parameter tuning, and maximizing computational density for heavy sustained bioinformatics workloads (e.g., executing prolonged GROMACS molecular dynamics simulations).
 
