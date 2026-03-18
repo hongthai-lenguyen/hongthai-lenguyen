@@ -175,9 +175,11 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 | ⚙️ Repository                                                                                                | 🎯 Scientific Objective & Technical Impact                                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[TBM_FixationBenchmark_scRNAseq](https://github.com/hongthai-lenguyen/TBM_FixationBenchmark_scRNAseq)**   | **Objective:** Develop a rigorous benchmarking framework to evaluate cellular fixation protocols for scRNA-seq.<br>**Impact:** Optimizes sample preservation workflows to mitigate transcriptional drift prior to droplet encapsulation. |
-| **[multiomics-bridge](https://github.com/hongthai-lenguyen/multiomics-bridge)**<br>*(Sole Developer)* | **Objective:** Engineer programmatic statistical bridges utilizing Python and R.<br>**Impact:** Unifies disparate transcriptomic and proteomic vectors into cohesive immune pathway models.                                              |
-| **[protein-sim-suite](https://github.com/hongthai-lenguyen/protein-sim-suite)**<br>*(Sole Developer)* | **Objective:** Author a fully containerized structural biology pipeline bridging ColabFold and GROMACS.<br>**Impact:** Fully automates high-throughput protein conformation prediction and molecular dynamics simulations.               |
+| **[R21-COVID19_Immune_Atlas](https://github.com/hongthai-lenguyen/R21-COVID19_Immune_Atlas)**<br>*(Pet Project)* | **Objective:** Build a high-resolution computational atlas of circulating immune cells in acute and convalescent COVID-19 patients.<br>**Impact:** Discovers rare cellular states and derives predictive immuno-signatures of severity.                |
+| **[TerpeneSynthase_Mechanism](https://github.com/hongthai-lenguyen/HbTPS24_Structure2Mechanism)**<br>*(Pet Project)* | **Objective:** Elucidate the dual catalytic mechanism of a multi-product terpene synthase via an integrated computational workflow.<br>**Impact:** Explains how a single active site catalyses two independent reaction families and yields mutational predictions. |
+| **[TB_Regulatory_Landscape](https://github.com/hongthai-lenguyen/TB_Regulatory_Landscape)**<br>*(Self-hosted Project – Drafting Paper)* | **Objective:** Define the serum metabolite-driven transcription factor landscape in active Tuberculosis.<br>**Impact:** Uncovers the regulatory framework linking systemic metabolism to immune transcription.                                           |
+| **[TBM_FixationBenchmark_scRNAseq](https://github.com/hongthai-lenguyen/TBM_FixationBenchmark_scRNAseq)**<br>*(Ongoing Project @ OUCRU)* | **Objective:** Develop a rigorous benchmarking framework to evaluate cellular fixation protocols for scRNA-seq.<br>**Impact:** Optimizes sample preservation workflows to mitigate transcriptional drift prior to droplet encapsulation.                   |
+| **[TBMvsCNS_scRNAseq_OUCRU](https://github.com/hongthai-lenguyen/TBMvsCNS_scRNAseq_OUCRU)**<br>*(Ongoing Project @ OUCRU)* | **Objective:** Characterize single-cell transcriptomic profiles of paired CSF and PBMCs in Tuberculous Meningitis.<br>**Impact:** Reveals TBM-specific immune signatures and delineates neuro-immune axes across physiological compartments.             |
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
@@ -185,7 +187,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Analytics
 <div align="center">
-  <img src="https://github.com/hongthai-lenguyen/hongthai-lenguyen/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
 </div>
 
 <div align="center">
