@@ -19,8 +19,8 @@ jobs:
           echo "Scanning for files >100MB..."
           large_files=$(find . -type f -size +100M)
           if [ -n "$large files" ]; then
-            echo "❌ ERROR: The following files exceed 100MB:"
+            echo "ERROR: The following files exceed 100MB:"
             echo "$large_files"
             exit 1
           else
-            echo "✅ All files are under 100MB."
+            echo "All files are under 100MB."
