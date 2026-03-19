@@ -188,9 +188,9 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Analytics
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake-dark.svg?v=1773908013">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1773908013">
-    <img alt="Snake animation Contribution Graph" src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1773908013">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake-dark.svg?v=1773912177">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1773912177">
+    <img alt="Snake animation Contribution Graph" src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1773912177">
   </picture>
 </div>
 
