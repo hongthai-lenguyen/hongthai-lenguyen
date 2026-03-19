@@ -24,14 +24,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # 1. Core Authentication & Display Setup
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.README_TOKEN }}
           config_timezone: Asia/Ho_Chi_Minh
           base: header, activity, community, repositories, metadata
           base_indepth: yes 
           
           # 2. Private Contribution Aggregation Protocol
-          # CRITICAL FIX: You must replace 'your.actual@email.com' with the email tied to your local Git config.
-          commits_authoring: "hongthai-lenguyen, your.actual@email.com" 
+          commits_authoring: "hongthai-lenguyen, hongthai.lenguyen@outlook.com" 
           
           # 3. Deep Language Extraction (Including Private Codebases)
           plugin_languages: yes
