@@ -30,6 +30,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
 
+      - name: Generate github-readme-stats
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=777777&count_private=true&include_all_commits=true
+          path: dist/github-readme-stats.svg
+          token: ${{ secrets.README_TOKEN }}
+
       - name: Update README cache-buster
         run: |
           VERSION=$(date +%s)
