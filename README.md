@@ -215,7 +215,7 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 
 ## 🎓 Academic Credentials
 
-**Bachelor of Science in Biotechnology** *(Equivalent)**VNUHCM - University of Science, Ho Chi Minh City, Vietnam* | *Aug 2023*
+**Bachelor of Science in Biotechnology** *VNUHCM - University of Science, Ho Chi Minh City, Vietnam* | *Aug 2023*
 
 - **Thesis:** Integration of computational protein modeling, cloning, expression, and functional characterization of multi-product Terpene Synthase.
 
