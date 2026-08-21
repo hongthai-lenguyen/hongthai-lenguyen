@@ -188,14 +188,14 @@ Tran H., **Le T.**, Pham B., Nguyen T. (2025). *Functional Plant Biology.* DOI: 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Analytics
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake-dark.svg?v=1787293691">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1787293691">
-    <img alt="Snake animation Contribution Graph" src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1787293691">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake-dark.svg?v=1787315138">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1787315138">
+    <img alt="Snake animation Contribution Graph" src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-contribution-grid-snake.svg?v=1787315138">
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-readme-stats.svg?v=1787293691" height="150" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/hongthai-lenguyen/hongthai-lenguyen/output/github-readme-stats.svg?v=1787315138" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=hongthai-lenguyen&theme=transparent&hide_border=true&title_color=10B981&ring=10B981&fire=10B981&dates=777777&sideLabels=777777&sideNums=777777&count_private=true" height="150" alt="GitHub Streak" />
 </div>
 
